@@ -1,4 +1,10 @@
 body{
-    background-color: rgb(160, 36, 172);
+    background-color: rgb(235, 102, 171);
     color: aliceblue;
+    
+    }
+    
+button{
+    background-color: aqua;
 }
+
